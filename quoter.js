@@ -1,6 +1,6 @@
 
 
-<script>
+
 onload = init;
 
 function init() {
@@ -264,7 +264,6 @@ function clickUpdates() {
 
 
 
-</script>
-<script>
+
+
 	$( ".readonly" ).attr('readonly', 'readonly');
-</script>
