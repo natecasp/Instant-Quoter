@@ -95,6 +95,8 @@ function clickUpdates() {
             priceone.value = getPrice();
             var noteone = document.getElementById("1-notes");
             noteone.value = getNotes();
+			
+	    document.getElementById("next").style.display = block;
             
          		resetID();
             resetOD();
